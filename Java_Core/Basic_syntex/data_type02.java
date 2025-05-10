@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class data_type02 {
     public static void main(String[] args) {

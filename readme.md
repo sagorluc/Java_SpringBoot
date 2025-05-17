@@ -14,11 +14,6 @@ To build and run Java and Spring Boot applications, you need to install the **Ja
 - Choose your operating system and download the installer.
 - Follow the installation instructions.
 
-### ⚙️ 2. Install Visual Studio Code (VS Code)
-If you don’t already have it, install VS Code:
-
-👉 Download VS Code
-
 
 ### 🔌 3. Install Java Extensions in VS Code
 Open VS Code and install the following essential extensions from the Extensions tab (Ctrl+Shift+X):
@@ -37,20 +32,21 @@ You can install both by searching or using these links:
 
 👉 Spring Boot Extension Pack
 
+
 ### 🌱 4. Set Up Spring Boot Project
 The easiest way to create a Spring Boot project is to use Spring Initializr.
 
-🧪 Option 1: Use Spring Initializr in VS Code
+#### 🧪 Option 1: Use Spring Initializr in VS Code
 Open Command Palette (Ctrl+Shift+P)
 
 Type: Spring Initializr: Generate a Maven/Gradle Project
 
 Select language, dependencies, project name, etc.
 
-The project will be downloaded and opened in VS Code.
+👉 [Create project and run by vs code video](https://www.youtube.com/watch?v=nprsS7r_UfM)
 
-🧪 Option 2: Use Spring Initializr website
-👉 Spring Initializr Website
+#### 🧪 Option 2: Use Spring Initializr website
+👉 [Spring Initializr Website](https://start.spring.io/)
 
 Customize your project and download the .zip
 
